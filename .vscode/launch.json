@@ -1,0 +1,14 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.crequestnk/?linkidlinkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "chrome",
+            "requrequestest": "launch",
+            "name": "Open index.html",
+            "file": "/workspaces/idin23-/index.html"
+        }
+    ]
+}
